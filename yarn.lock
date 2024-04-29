@@ -1475,13 +1475,16 @@
 "@modules/maps@file:./modules/maps":
   version "1.0.0"
 
+"@modules/maps@file:./modules/maps/":
+  version "1.0.0"
+
 "@modules/qr-code@file:./modules/qr-code":
   version "1.0.0"
   dependencies:
     react-native-camera "4.2.1"
     react-native-qrcode-scanner "1.5.5"
 
-"@modules/zoom-free-calling@file:./modules/zoom-free-calling/":
+"@modules/zoom-free-calling@file:./modules/zoom-free-calling":
   version "1.0.1"
   dependencies:
     react-native-base64 "0.2.1"
