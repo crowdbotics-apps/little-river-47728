@@ -66,6 +66,7 @@ This section will show any installed modules you add from the Storyboard Modules
 - [faq]()
 - [react-native-maps](modules/maps)
 - [react-native-login](modules/login)
+- [django-ocr](backend/modules)
 
 # Getting started: Frontend
 
