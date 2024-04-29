@@ -68,6 +68,7 @@ This section will show any installed modules you add from the Storyboard Modules
 - [react-native-login](modules/login)
 - [django-ocr](backend/modules)
 - [react-native-zoom-free-calling](modules/zoom-free-calling)
+- [react-native-privacy-policy-webview](modules/privacy-policy-webview)
 
 # Getting started: Frontend
 
